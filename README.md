@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Menu</title>
+	Menu
 </head>
 <body><br><br><br><br><center>
 <button><a href="menu2.php">Ingresar Empresa</a></button>
